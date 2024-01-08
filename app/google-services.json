@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "178789791697",
+    "firebase_url": "https://aplikasi-pesan-makanan-8cd6e-default-rtdb.firebaseio.com",
+    "project_id": "aplikasi-pesan-makanan-8cd6e",
+    "storage_bucket": "aplikasi-pesan-makanan-8cd6e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178789791697:android:34dc4252fccae0771d12f0",
+        "android_client_info": {
+          "package_name": "com.example.aplikasipesanmakanan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-cYAWcGoR0A0l8oNvhYwh7kfzQCMKvJM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
